@@ -24,7 +24,7 @@
   "homepage": "https://github.com/jsdaniell/create-json#readme",
   "dependencies": {
     "@actions/core": "^1.11.1",
-    "@actions/github": "^4.0.0",
+    "@actions/github": "^9.1.1",
     "vercel": "^19.1.2"
   }
 }
